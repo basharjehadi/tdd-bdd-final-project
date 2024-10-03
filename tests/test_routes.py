@@ -26,7 +26,6 @@ Test cases can be run with the following:
 """
 import os
 import logging
-import app
 from urllib.parse import quote_plus
 from decimal import Decimal
 from unittest import TestCase
